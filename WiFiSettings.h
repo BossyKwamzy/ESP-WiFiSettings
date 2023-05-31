@@ -2,7 +2,7 @@
 #define WiFiSettings_h
 
 #include <Arduino.h>
-#include <functional>
+//.#include <functional>
 
 class WiFiSettingsClass {
     public:
